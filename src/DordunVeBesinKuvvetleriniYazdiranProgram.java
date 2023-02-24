@@ -1,12 +1,6 @@
-# Dordun-ve-Besin-Kuvvetlerini-Yazdiran-Program
-Java Dördün ve Beşin Kuvvetlerini Yazdıran Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
 
         int k;
